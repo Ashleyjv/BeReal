@@ -35,6 +35,9 @@ Here's a walkthrough of implemented user stories:
 <img src="![BeReal1Compressed](https://user-images.githubusercontent.com/54588325/222290554-d7364b41-2116-448d-aa4f-280838cbe34d.gif)
 " width=200>
 
+![BeReal1Compressed](https://user-images.githubusercontent.com/54588325/222290644-3b3cc4ff-d440-46ae-825c-f3c0f143e10e.gif)
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
