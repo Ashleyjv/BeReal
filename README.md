@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="YOUR_GIF_URL_HERE" width=200>
+<img src="![BeReal1Compressed](https://user-images.githubusercontent.com/54588325/222290554-d7364b41-2116-448d-aa4f-280838cbe34d.gif)
+" width=200>
 
 ## Notes
 
