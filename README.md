@@ -34,6 +34,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/nXUehuX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+[Imgur](https://imgur.com/bvtsydL)
+
 
 https://i.imgur.com/nXUehuX.gif
 
@@ -94,17 +96,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/EJmYHyk' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-https://imgur.com/a/EJmYHyk
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![BeReal2Reduced](https://user-images.githubusercontent.com/54588325/222289319-1359d4b2-c301-40f8-a141-d531cf4f35da.gif)
 
 ## Notes
 
