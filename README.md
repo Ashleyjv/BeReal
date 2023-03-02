@@ -38,6 +38,11 @@ Here's a walkthrough of implemented user stories:
 ![BeReal1Compressed](https://user-images.githubusercontent.com/54588325/222290644-3b3cc4ff-d440-46ae-825c-f3c0f143e10e.gif)
 
 
+The following gif also shows how the sign up process is done
+
+![BeReal1RE](https://user-images.githubusercontent.com/54588325/222302674-3a84f88d-49e6-460e-b08b-5e1f95143b6d.gif)
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
