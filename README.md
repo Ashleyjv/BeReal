@@ -93,10 +93,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/54588325/223876067-9d5e2616-c598-4731-aba1-8524548ff316.gif)
 
-<img src="![BeReal2Reduced](https://user-images.githubusercontent.com/54588325/222289319-1359d4b2-c301-40f8-a141-d531cf4f35da.gif)" width=200>
 
-![BeReal2Reduced](https://user-images.githubusercontent.com/54588325/222289319-1359d4b2-c301-40f8-a141-d531cf4f35da.gif)
 
 ## Notes
 
