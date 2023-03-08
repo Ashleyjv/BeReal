@@ -93,7 +93,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/54588325/223876067-9d5e2616-c598-4731-aba1-8524548ff316.gif)
+
+![ezgif com-video-to-gif-4](https://user-images.githubusercontent.com/54588325/223877444-e1016bfd-71b0-4139-a504-fad26f89d40b.gif)
 
 
 
